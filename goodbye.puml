@@ -1,5 +1,15 @@
-
 @startuml
-Bob -> Tom : hello232
-@enduml
+folder "Glückwunschkarte" {
+    usecase goodbye [
+        Lieber Tom,
+        wir wünschen dir viel Erfolg und
+        alles Gute für die Zukunft!
+    ]
 
+    :Daniel: -- goodbye
+    :Rene: -- goodbye
+    :Frank: -- goodbye
+    :Janina: -- goodbye
+
+}
+@enduml
