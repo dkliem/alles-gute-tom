@@ -1,4 +1,4 @@
 # Mit den besten Wünschen
 
 
-![Goodbye](rendered/greetings.svg)
+![Greetings](rendered/greetings.svg)
