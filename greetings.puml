@@ -6,10 +6,10 @@ folder "Glückwunschkarte" {
         alles Gute für die Zukunft!
     ]
 
-    :Daniel: -- goodbye
-    :Rene: -- goodbye
-    :Frank: -- goodbye
-    :Janina: -- goodbye
-    :NN: -- goodbye
+    :Daniel: --> goodbye: says
+    :Rene: --> goodbye: says
+    :Frank: --> goodbye: says
+    :Janina: --> goodbye: says
+    :NN: --> goodbye: says
 }
 @enduml
