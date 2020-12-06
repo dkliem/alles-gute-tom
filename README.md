@@ -2,4 +2,4 @@
 
 
 
-![Goodbye](rendered/graph.svg)
+![Goodbye](rendered/goodbye.svg)
