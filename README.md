@@ -1,4 +1,4 @@
 # Mit den besten Wünschen
 
 
-![Goodbye](rendered/goodbye.svg)
+![Goodbye](rendered/goodbye.svg =400x)
