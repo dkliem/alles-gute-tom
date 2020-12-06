@@ -1,5 +1,5 @@
 
 @startuml
-Bob -> Tom : hello2
+Bob -> Tom : hello23
 @enduml
 
