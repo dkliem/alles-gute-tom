@@ -19,8 +19,10 @@ folder "Glückwunschkarte" {
     :Shyam: --> goodbye: says
     :MicNet: --> goodbye: says
     :Frank: --> goodbye: says
+    :Arnold: --> goodbye: says 
     :Jens: --> goodbye: says
     :Mario: --> goodbye: says
+   
     
 }
 @enduml
